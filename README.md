@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isethoro an absolute beginner°°
+- 👋 Hi, I’m Severin an absolute beginner°°
 - 👀 I want to become a developer^^
 - 🌱 I’m currently learning ... HTML,CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ... everything^^
